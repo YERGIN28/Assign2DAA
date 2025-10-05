@@ -1,0 +1,5 @@
+algorithm,n,time_ns,comparisons,swaps,allocations
+heapsort,100,438700,1024,580,0
+heapsort,1000,358100,16892,9097,0
+heapsort,5000,1237800,107715,57145,0
+heapsort,10000,1974500,235271,124129,0

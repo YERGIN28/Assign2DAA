@@ -1,6 +1,6 @@
-package com.daaassign2.util;
+package com.daaassign2.Metrics;
 
-public class Metrics {
+public class PerformanseTracker {
     private long comparisons = 0;
     private long swaps = 0;
     private long allocations = 0;
