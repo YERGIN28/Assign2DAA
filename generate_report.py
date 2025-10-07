@@ -53,8 +53,8 @@ elements = []
 elements.append(Paragraph("<b>Design and Analysis of Algorithms – Assignment 2</b>", styles["Title"]))
 elements.append(Paragraph("Comparative Report: HeapSort vs ShellSort", styles["Title"]))
 elements.append(Spacer(1, 20))
-elements.append(Paragraph("Student: <b>Erassul Ginaat (Student B – HeapSort)</b>", styles["Normal"]))
-elements.append(Paragraph("Partner: Student A (Shell Sort)", styles["Normal"]))
+elements.append(Paragraph("Student: <b>Erassul Ginayat (Student B – HeapSort)</b>", styles["Normal"]))
+elements.append(Paragraph("Partner: Yerassyl Alimbek (Shell Sort)", styles["Normal"]))
 elements.append(Spacer(1, 40))
 
 # Introduction
